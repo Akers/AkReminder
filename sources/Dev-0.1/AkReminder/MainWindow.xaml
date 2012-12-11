@@ -1,0 +1,10 @@
+﻿<Window x:Class="AkReminder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="MainWindow_Loaded">
+    <Grid>
+        <Label x:Name="label1" Content="asdasd" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Height="67.837" Width="489" FontSize="36"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="96,176,0,0" VerticalAlignment="Top" Width="323" Height="110.837" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
